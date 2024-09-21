@@ -275,7 +275,7 @@ const animationTimeline = () => {
     )
     .staggerFromTo(
       ".wish-hbd span",
-      0.5,
+      0.7,
       {
         scale: 1.4,
         rotationY: 150
